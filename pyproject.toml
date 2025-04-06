@@ -5,7 +5,7 @@ description = "Add your description here"
 requires-python = ">=3.12"
 dependencies = [
     "flask==3.1.0",
-    "gradio==5.8.0",
+    "gradio==5.23.3",
     "huggingface-hub",
     "mcp-server-sqlite==0.6.2",
     "mcp==1.1.0",
