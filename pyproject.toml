@@ -7,7 +7,7 @@ dependencies = [
     "flask==3.1.0",
     "gradio==5.23.3",
     "huggingface-hub",
-    "mcp-server-sqlite==0.6.2",
+    "mcp-server-sqlite==2025.1.14",
     "mcp==1.6.0",
     "pyd>=0.13.1",
     "pydantic>=2.11.2",
